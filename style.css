@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+QLD+Hand&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Edu QLD Hand", sans-serif;
+  background-color: lavender;
+  color: navy;
+  overflow-x: hidden;
+}
+/* #the-title {
+  color: royalblue;
+} */
+
+/* .title {
+  color: red;
+} */
+
+h1 {
+  background-color: goldenrod;
+}
+
+.title {
+  background-color: #1f1f1f;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+ul li {
+  list-style: none;
+}
